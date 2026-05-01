@@ -19,7 +19,7 @@ SCU Hub 是一个面向四川大学学生的静态导航页面，整合了教务
 scu-hub/
 ├── index.html      # 主页面
 ├── data.js         # 网站数据（分类与链接）
-├── logo1.jpeg      # 校徽图片
+├── logo1.jpeg      # 网站logo图片
 ├── small logo.png  # 箭头图标
 ├── 01.png ~ 06.png # 各分类图标
 └── README.md
